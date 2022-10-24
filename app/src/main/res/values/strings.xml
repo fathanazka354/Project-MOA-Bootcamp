@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ProjectMoa</string>
+    <string name="otorisasi_jasa_keuangan">Otorisasi Jasa Keuangan</string>
+    <string name="calendar">Calendar</string>
+    <string name="date">17 Agustus 2020</string>
+    <string name="jalan">J. Tarupolo Tengah No.7, Gisikdrono,Kec. Semarang Barat</string>
+    <string name="street">street</string>
+    <string name="jasa">jasa</string>
+    <string name="offline">Offline</string>
+    <string name="sosialisasi_literasi">Sosialisasi Literasi</string>
+    <string name="_300_seat">300 Seat</string>
+    <string name="gratis">Gratis</string>
+    <string name="hero">hero</string>
 </resources>
