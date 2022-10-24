@@ -59,28 +59,32 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20sp"
         android:layout_marginVertical="16dp"
         android:layout_marginHorizontal="16dp"
         android:text="Media"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
-        android:layout_height="180dp"
+        android:layout_height="wrap_content"
         android:orientation="horizontal"
         tools:listitem="@layout/item_media" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20sp"
         android:text="Kegiatan"
         android:layout_marginVertical="16dp"
         android:layout_marginHorizontal="16dp"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
-        android:layout_height="180dp"
+        android:layout_height="wrap_content"
         android:orientation="horizontal"
-        tools:listitem="@layout/item_media" />
+        tools:listitem="@layout/item_kegiatan" />
     </LinearLayout>
 
 </ScrollView>
